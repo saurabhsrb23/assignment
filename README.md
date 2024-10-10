@@ -16,6 +16,6 @@ A simple string calculator that performs addition on numbers provided in a strin
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/saurabhsrb23/string-calculator
 cd string-calculator
 npm install
